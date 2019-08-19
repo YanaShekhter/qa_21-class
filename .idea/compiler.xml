@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="first-project.main" target="1.8" />
+      <module name="first-project.test" target="1.8" />
       <module name="first-project_main" target="1.8" />
       <module name="first-project_test" target="1.8" />
     </bytecodeTargetLevel>
