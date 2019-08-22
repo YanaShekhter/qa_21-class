@@ -8,6 +8,8 @@ import org.testng.annotations.Test;
 
 public class OpenGoogleTest {
 WebDriver driver;
+
+
 @Test
 public void setUp() throws InterruptedException {
   driver = new FirefoxDriver();
